@@ -419,6 +419,9 @@ a:hover {
 }
 
 @media screen and (max-width: 860px) {
+  .projects {
+    width: auto;
+  }
   .projects .project-row {
     display: flex;
     margin-bottom: 3rem;
